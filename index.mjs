@@ -14,7 +14,6 @@ import querystring from 'querystring';
  * expose `toc`
  */
 
-export default toc;
 
 /**
  * Load `generate` as a remarkable plugin and
@@ -253,3 +252,5 @@ toc.slugify = utils.slugify;
 toc.titleize = titleize;
 toc.plugin = generate;
 toc.strip = strip;
+
+export default toc;

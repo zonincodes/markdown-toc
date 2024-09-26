@@ -77,12 +77,12 @@
     "url": "https://github.com/jonschlinkert/markdown-toc/issues"
   },
   "files": [
-    "cli.js",
-    "index.js",
+    "cli.mjs",
+    "index.mjs",
     "lib"
   ],
   "bin": {
-    "markdown-toc": "cli.js"
+    "markdown-toc": "cli.mjs"
   },
   "directories": {
     "test": "test"
