@@ -32,13 +32,13 @@
   },
   "license": "MIT",
   "files": [
-    "cli.js",
-    "index.js",
+    "cli.mjs",
+    "index.mjs",
     "lib"
   ],
-  "main": "index.js",
+  "main": "index.mjs",
   "bin": {
-    "markdown-toc": "cli.js"
+    "markdown-toc": "cli.mjs"
   },
   "engines": {
     "node": ">=0.10.0"
